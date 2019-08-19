@@ -1,7 +1,7 @@
 # PAT Image Reconstruction
 Matlab codes for PAT image reconstruction from subsampled data based on a novel regularisation term (Hessian Schatten-norm of the image filtered by Gaussian function), using k-Wave Matlab toolbox, FISTA and ADMM algorithms.
 
-### Auther: Qing Fang
+### Author: Qing Fang
 August 20, 2019
 
 # Build Instruction
