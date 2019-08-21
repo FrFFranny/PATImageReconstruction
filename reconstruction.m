@@ -16,7 +16,7 @@ function [ans,error] = reconstruction(y,A,A_adj,info,varargin)
 %          varargin: sigma: the Gaussian filter's standard deviation
 %
 %   Output: ans: the reconstructed image
-%           Info: The normstep at every iteration
+%           error: The normstep at every iteration
 
 
 % initialization
